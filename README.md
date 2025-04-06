@@ -2,7 +2,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ISHOOO?label=Follow&style=social)](https://github.com/ISHOOO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ishan789/)
-[![Twitter](https://img.shields.io/twitter/follow/Gupta_8Anant?style=social)](https://x.com/Gupta_8Anant)
+[![Twitter](https://img.shields.io/twitter/Gupta_8Anant?style=social)](https://x.com/Gupta_8Anant)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/eeeeshugupta)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ishubest90/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ishuthebest9999)
 
 ## 🧠 About Me
 
