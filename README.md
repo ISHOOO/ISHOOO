@@ -24,5 +24,4 @@
 
 ## 📫 Contact Me
 
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: anantgupta08460@gmail.com
