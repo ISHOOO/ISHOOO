@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anant !
 
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ishan789/)
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/anantg789/)
 [![](https://img.shields.io/badge/-x.com-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/Gupta_8Anant)
 [![](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/eeeeshugupta)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ishubest90/)
